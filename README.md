@@ -1,13 +1,15 @@
 # Rain-Prediction-in-Australia
+### This project was done as a part of the Honors portion of the IBM Machine Learning Course on Coursera
+Used a rainfall dataset from the Australian Government's Bureau of Meteorology, cleaned the data, and applied different classification algorithms to the data. Used classification algorithms to create a model based on the training data and evaluated the testing data using various evaluation metrics.
 
-This project focuses on predicting rain in Australia using various machine-learning algorithms. Specifically, the following algorithms have been employed:
-#### Linear Regression
-#### K-Nearest Neighbors (KNN)
-#### Decision Trees
-#### Logistic Regression
-#### Support Vector Machines (SVM)
+Used these algorithms:
+1. Linear Regression
+2. K-Nearest Neighbors (KNN)
+3. Decision Trees
+4. Logistic Regression
+5. Support Vector Machines (SVM)
 
-### Evaluation Metrics
+#### Evaluation Metrics
 The performance of these models is assessed using a range of evaluation metrics:
 - **Accuracy Score:** Measures the proportion of correct predictions from the total predictions made.
 - **Jaccard Index:** Calculates the similarity between predicted and true labels, handy for binary classification.
